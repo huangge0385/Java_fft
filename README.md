@@ -1,3 +1,7 @@
+Use java to compute ffs
+===============================================
+
+
 To see result, cd into fft_res. The excel file is fft result while res_pic folder contains frequency domain graph (frequency unit /min).
 
 To run, simply open fft and run in eclipse. It will read excel file, compute fft and write new excel file. 
