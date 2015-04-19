@@ -1,6 +1,7 @@
 Use java to compute ffs
 ===============================================
 
+Detail: read and write xls using apache POI, compute fft using FFT Columbia
 
 To see result, cd into fft_res. The excel file is fft result while res_pic folder contains frequency domain graph (frequency unit /min).
 
