@@ -1,4 +1,4 @@
-Use java to compute ffs
+Use java to compute ffs (Java)
 ===============================================
 
 Detail: read and write xls using apache POI, compute fft using FFT Columbia
