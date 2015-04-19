@@ -7,7 +7,9 @@ To see result, cd into fft_res. The excel file is fft result while res_pic folde
 
 
 
- ![image](https://github.com/huangge0385/Java_fft/blob/master/res_figure_example.png)
+ 
+ 
+ <img src="https://github.com/huangge0385/Java_fft/blob/master/res_figure_example.png" width="50%" height="50%">
 
 To run, simply open fft and run in eclipse. It will read excel file, compute fft and write new excel file. 
 
